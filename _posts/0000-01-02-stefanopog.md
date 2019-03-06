@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Ducunt Fata Volentem, Nolentem trahunt
 Use the left arrow to go back!
